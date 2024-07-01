@@ -1,6 +1,8 @@
-# Digital BookShop backend Node project with MongoDB
+# Digital BookShop
 
-Steps to run and connect the program with DB
+Digital BookShop is a Node project with MongoDB
+
+## Usage
 1. Add .env file - content:
    ```bash
    NODE_ENV=development
